@@ -1,3 +1,24 @@
+header nav ul {
+    text-align: center;
+    margin: 20px auto;
+    word-spacing: 15px;
+}
+nav {
+    background: #234467 ;
+    padding: 15px;
+
+}
+
+nav li{
+    padding: 0 20 px;
+    display: inline-block;
+}
+
+nav li a {
+    color: white;
+    text-decoration: none;
+}
+
 body {
     font-family: 'Helvetica', sans-serif;
     margin: 0;
