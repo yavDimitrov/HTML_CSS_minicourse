@@ -1,6 +1,5 @@
 header nav ul {
     text-align: center;
-    margin: 20px auto;
     word-spacing: 15px;
 }
 nav {
@@ -37,4 +36,14 @@ section h1 {
 
 header p {
     font-style: italic;
+}
+
+footer {
+    background: #234465;
+    text-align: center;
+    color: white;
+    padding: 8px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
