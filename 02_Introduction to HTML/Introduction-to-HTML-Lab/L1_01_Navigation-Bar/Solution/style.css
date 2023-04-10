@@ -10,7 +10,7 @@ nav {
 }
 
 nav li {
-    padding: 0 70 px;
+    padding: 0 20 px;
     display: inline-block;
 }
 
@@ -18,4 +18,4 @@ nav li a {
     color: white;
     text-decoration: none;
 }
- 
+  
